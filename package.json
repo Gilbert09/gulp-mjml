@@ -11,7 +11,7 @@
   "dependencies": {
     "gulp": "^3.9.0",
     "gulp-util": "^3.0.7",
-    "mjml": "latest",
+    "mjml": "git+https://github.com/Gilbert09/mjml.git",
     "through2": "^2.0.0"
   }
 }
